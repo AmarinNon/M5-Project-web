@@ -17,3 +17,4 @@ User Story
 
 เว็บ:
 https://app.mockplus.com/s/knYLsKkREwb
+เลือก Preview และโปรดเลือก Show content outside artboard ด้วย
