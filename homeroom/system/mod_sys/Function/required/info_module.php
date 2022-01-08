@@ -1,0 +1,3 @@
+<?php
+$sqlinfo[$modulename] = array();
+?>

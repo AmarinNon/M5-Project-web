@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "JaromThai";
+  src: url("JaromThai/JaromThai-Regular.woff2") format("woff2");
+  src: url("JaromThai/JaromThai-Regular.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JaromThai";
+  src: url("JaromThai/JaromThai-Bold.woff2") format("woff2");
+  src: url("JaromThai/JaromThai-Bold.ttf") format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'CSChatThai';
+  font-style: normal;
+  font-weight: normal;
+  src: url('CSChatThaiUI/CSChatThaiUI.woff2') format('woff2'), url('../fonts/CSChatThaiUI/CSChatThaiUI.ttf') format('truetype');
+  unicode-range: U+0E01-0E5B, U+200B-200D, U+25CC;
+}
+
+.font-chatthai {
+  font-family: 'CSChatThai';
+  font-size: unset;
+  letter-spacing: 0px;
+}
+
+.font-JaromThai {
+  font-family: "JaromThai";
+  letter-spacing: 0.3px;
+}
+
+body {
+  font-family: "JaromThai";
+  font-size: 16pt;
+  letter-spacing: 0.3px;
+  line-height: 1.25;
+}
+
+.fa.with-text {
+  font-size: 12pt;
+}
